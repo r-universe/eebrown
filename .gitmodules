@@ -3,3 +3,7 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "covidprobability"]
+	path = covidprobability
+	url = https://github.com/eebrown/covidprobability
+	shallow = true
