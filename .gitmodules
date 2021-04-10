@@ -7,3 +7,4 @@
 	path = covidprobability
 	url = https://github.com/eebrown/covidprobability
 	shallow = true
+	registered = true
