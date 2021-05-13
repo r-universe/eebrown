@@ -8,3 +8,4 @@
 	url = https://github.com/eebrown/covidprobability
 	shallow = true
 	registered = true
+	oncran = true
